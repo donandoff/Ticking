@@ -1,0 +1,21 @@
+{
+  "name": "time-log-services",
+  "version": "1.0.0",
+  "description": "TimeLog RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "testTimeLog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dondouthitt/Ticking.git"
+  },
+  "keywords": [
+    "TimeLog",
+    "time",
+    "log",
+    "ticking"
+  ],
+  "author": "Don Douthitt",
+  "license": "MIT"
+}
